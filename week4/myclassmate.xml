@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<我的通讯录 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="myclassmate.xsd">
+	<同学 姓名="张三" 年龄="23">
+		<地址>广州从化街口</地址>
+	</同学>
+	<同学 姓名="李四" 年龄="22">
+		<地址>广州天河区</地址>
+	</同学>
+</我的通讯录>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GB2312"?>
+<e:数据 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns:e="myurn:example" xsi:schemaLocation="myurn:example target.xsd">
+	<e:项目/>
+	<e:项目/>
+	<e:项目/>
+</e:数据>

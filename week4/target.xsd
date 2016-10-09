@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+xmlns="myurn:example" targetNamespace="myurn:example" 
+elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="数据">
+		<xs:complexType>
+			<xs:choice>
+				<xs:element name="项目" maxOccurs="unbounded"/>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
