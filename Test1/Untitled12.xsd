@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.sise.com/Employee"
+xmlns="http://www.sise.com/Employee" >
+	<xs:include schemaLocation="C:\Users\fuck\Documents\Altova\XMLSpy2013\Examples\Office2007\Test1\Untitled31.xsd" />
+	<xs:element name="employee" type="employeeType" />
+	<xs:complexType name="employeeType">
+	<xs:sequence>
+<xs:element name="name" type="xs:string" />
+<xs:element name="homeAddr" type="addressType" />	
+	</xs:sequence>
+	</xs:complexType>
+</xs:schema>

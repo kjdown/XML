@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<辅修专业 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/fuck/Documents/Altova/XMLSpy2013/Examples/Office2007/Test1/Untitled11.xsd">
+	<软件系>
+		<数据结构/>
+		<数据库系统原理/>
+	</软件系>
+	<数码系>
+		<多媒体技术/>
+	</数码系>
+</辅修专业>
