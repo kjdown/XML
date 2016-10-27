@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="match.css" ?>
+<?xml-stylesheet xmlns="http://abc.org/sample/cgi/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="text/css" href="match.css" ?>
 <Matches>
-	<match>
-		<Type>Group</Type>
-		<Team Type="Host">
-			<Name>Germany</Name>
-			<Score>4</Score>
-		</Team>
-		<Team Type="Guest">
-			<Name>Constarica</Name>
-			<Score>2</Score>
-		</Team>
-	</match>
-	<Match>
-		<Type>Final</Type>
-		<Team Type="Host">
-			<Name>Italy</Name>
-			<Score>6</Score>
-		</Team>
-		<Team Type="Guest">
-			<Name>France</Name>
-			<Score>5</Score>
-		</Team>
-	</Match>
+<match>
+<Type>Group</Type>
+<Team Type="Host">
+<Name>Germany</Name>
+<Score>4</Score>
+</Team>
+<Team Type="Guest">
+<Name>Constarica</Name>
+<Score>2</Score>
+</Team>
+</match>
+
+<Match>
+<Type>Final</Type>
+<Team Type="Host">
+<Name>Italy</Name>
+<Score>6</Score>
+</Team>
+<Team Type="Guest">
+<Name>France</Name>
+<Score>5</Score>
+
+</Team>
+</Match>
+
 </Matches>
